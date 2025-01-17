@@ -1,0 +1,12 @@
+bin/
+obj/
+
+*.dll
+*.user
+*.suo
+*.log
+appsettings*.json
+
+.idea/
+.vs/
+
